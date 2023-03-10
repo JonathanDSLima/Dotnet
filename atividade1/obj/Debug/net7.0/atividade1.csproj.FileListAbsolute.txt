@@ -1,0 +1,15 @@
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\bin\Debug\net7.0\atividade1.exe
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\bin\Debug\net7.0\atividade1.deps.json
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\bin\Debug\net7.0\atividade1.runtimeconfig.json
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\bin\Debug\net7.0\atividade1.dll
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\bin\Debug\net7.0\atividade1.pdb
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.csproj.AssemblyReference.cache
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfoInputs.cache
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.AssemblyInfo.cs
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.dll
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\refint\atividade1.dll
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.pdb
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\atividade1.genruntimeconfig.cache
+C:\Users\limaj\Documents\Projetos\Dotnet\atividade1\atividade1\obj\Debug\net7.0\ref\atividade1.dll

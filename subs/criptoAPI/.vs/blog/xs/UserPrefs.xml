@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8A65ED72-0DCB-4FAE-B7F9-AC8A702F4F8D}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="blog/Controllers/NoticiaController.cs">
+    <Files>
+      <File FileName="blog/Controllers/WeatherForecastController.cs" Line="59" Column="1" />
+      <File FileName="blog/Data/Database.cs" Line="9" Column="46" />
+      <File FileName="blog/Entity/Noticia.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="blog" expanded="True">
+            <Node name="blog" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="NoticiaController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Entity" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.blog PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

@@ -26,7 +26,7 @@ namespace CriptoAPI.Controllers
         public IActionResult GetAllVendas()
         {
             var aux = Database.transactions.FindAll(transaction => transaction.TypeAction == "venda");
-            return Ok(Database.transactions);
+            return Ok(aux);
         }
 
         [HttpGet("total")]

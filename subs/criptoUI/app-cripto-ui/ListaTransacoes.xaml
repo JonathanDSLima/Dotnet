@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="app_cripto_ui.ListaTransacoes">
+    <StackLayout Orientation="Vertical" Padding="10">
+
+        <Frame>
+            <Label Text="Transações" HorizontalOptions="Center" />
+        </Frame>
+
+        <Frame Margin="5">
+            <ListView  x:Name="listTransactions">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                <Grid Padding="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="1"
+                           Text="{Binding CoinName}"
+                           FontAttributes="Bold" />
+                    <Label Grid.Column="2"
+                           Text="{Binding Quantity}"/>
+                    <Label Grid.Column="3"
+                           Text="{Binding PriceBuy}"/>
+                    <Label Grid.Column="4"
+                           Text="{Binding PriceSeller}"/>
+                    <Label Grid.Column="5"
+                           Text="{Binding Data}"/>
+                    <Label Grid.Column="6"
+                           Text="{Binding TypeAction}"/>
+                </Grid>
+            </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+    </StackLayout>
+</ContentPage>
+
